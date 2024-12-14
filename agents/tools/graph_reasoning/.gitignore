@@ -1,0 +1,8 @@
+notebooks/GRAPHDATA/*
+!notebooks/GRAPHDATA/.gitkeep
+
+notebooks/GRAPHDATA_OUTPUT/*
+!notebooks/GRAPHDATA_OUTPUT/.gitkeep
+
+notebooks/TEXT_INPUT/*
+!notebooks/TEXT_INPUT/.gitkeep
