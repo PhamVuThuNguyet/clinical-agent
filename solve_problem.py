@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 from agents import clinical_agent
-from agents.reason_agent import decomposition
+from agents.planning_agent import decomposition
 from core.utils import LOGGER, llm_request
 
 client = OpenAI()

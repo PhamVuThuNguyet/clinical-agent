@@ -6,7 +6,7 @@ from .efficiency_agent import EfficiencyAgent
 from .enrollment_agent import EnrollmentAgent
 from .graph_reasoning_agent import GraphReasoningAgent
 from .LLMAgent import LLMAgent
-from .reason_agent import decomposition
+from .planning_agent import decomposition
 from .safety_agent import SafetyAgent
 
 
